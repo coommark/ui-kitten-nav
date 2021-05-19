@@ -1,6 +1,6 @@
 # How to Create React Native (UI Kitten) Drawer and Bottom Tabs Navigation using React Navigation 5
 
-This is the source code for "How to Create React Native (UI Kitten) Drawer and Bottom Tabs Navigation using React Navigation 5."
+This is the source code for "How to Create React Native (UI Kitten) Drawer and Bottom Tabs Navigation using React Navigation 5."  **[Click here to check it out](https://bit.ly/3ylPSHk).**
 
 ## Watch YouTube Video Here:
 
