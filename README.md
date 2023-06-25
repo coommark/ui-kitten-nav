@@ -23,7 +23,7 @@ For development, you will need Node.js, Yarn or NPM installed in your developmen
 
 ```sh
 # clone it
-git clone https://github.com/markscodingspot/ui-kitten-nav.git
+git clone https://github.com/coommark/ui-kitten-nav.git
 cd ui-kitten-nav
 
 # Make it your own
